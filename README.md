@@ -1,5 +1,6 @@
 
-```markdown
+---
+
 # TO-DO List Project
 
 This is a simple TO-DO list project built with React.
@@ -16,20 +17,21 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/TO-DO-List-Project.git
-
+   ```
+   git clone https://github.com/ghousali002/TO-DO-List-Project.git
+   ```
 
 2. Change to the project directory:
 
-
-cd TO-DO-List-Project
-
+   ```
+   cd TO-DO-List-Project
+   ```
 
 3. Install project dependencies:
 
-
-npm install
-
+   ```
+   npm install
+   ```
 
 ### Available Scripts
 
@@ -73,5 +75,4 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 - Deployment: [Learn more](https://facebook.github.io/create-react-app/docs/deployment)
 - `npm run build` fails to minify: [Learn more](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-```
-
+---
