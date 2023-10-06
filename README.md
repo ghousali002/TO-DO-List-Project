@@ -16,21 +16,20 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 1. Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/your-username/TO-DO-List-Project.git
-```
+
 
 2. Change to the project directory:
 
-```bash
+
 cd TO-DO-List-Project
-```
+
 
 3. Install project dependencies:
 
-```bash
+
 npm install
-```
+
 
 ### Available Scripts
 
@@ -76,4 +75,3 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 
 ```
 
-Replace the placeholders like `your-username` with your actual GitHub username and customize the content to suit your project's needs. This README provides instructions for cloning, installing dependencies, and running scripts for your React project.
